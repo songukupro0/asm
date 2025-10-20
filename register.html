@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng ký</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="auth-container">
+        <div class="auth-form-wrapper">
+            <h2>Đăng ký tài khoản</h2>
+            <form id="register-form">
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Mật khẩu</label>
+                    <input type="password" id="password" name="password" required minlength="6">
+                </div>
+                <div class="form-group">
+                    <label for="confirm-password">Xác nhận mật khẩu</label>
+                    <input type="password" id="confirm-password" name="confirm-password" required>
+                </div>
+                <p id="error-message" class="error-message"></p>
+                <button type="submit" class="auth-btn">Đăng ký</button>
+            </form>
+            <div class="auth-links">
+                <p>Đã có tài khoản? <a href="#" onclick="goToLogin()">Đăng nhập</a></p>
+            </div>
+            <a href="#" onclick="goToHome()" class="back-to-home"><i class="fas fa-arrow-left"></i> Quay lại trang chủ</a>
+        </div>
+    </div>
+    <script src="../../controllers/shared.js"></script>
+    <script src="../../controllers/auth.js"></script>
+    <script src="../../controllers/navigation.js"></script>
+</body>
+</html>

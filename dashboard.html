@@ -1,0 +1,49 @@
+
+<div class="dashboard-header">
+    <h1>Bảng điều khiển</h1>
+    <p>Tổng quan về cửa hàng của bạn.</p>
+</div>
+<div class="stats-cards">
+    <div class="card">
+        <div class="card-icon"><i class="fas fa-box-open"></i></div>
+        <div class="card-info">
+            <p>Tổng sản phẩm</p>
+            <h3 id="total-products">0</h3>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-icon"><i class="fas fa-sitemap"></i></div>
+        <div class="card-info">
+            <p>Tổng danh mục</p>
+            <h3 id="total-categories">0</h3>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-icon"><i class="fas fa-file-invoice-dollar"></i></div>
+        <div class="card-info">
+            <p>Đơn hàng mới</p>
+            <h3 id="total-orders">0</h3>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-icon"><i class="fas fa-dollar-sign"></i></div>
+        <div class="card-info">
+            <p>Doanh thu (tháng này)</p>
+            <h3 id="total-revenue">0 ₫</h3>
+        </div>
+    </div>
+</div>
+<div class="charts-container">
+    <div class="chart-card">
+        <h3>Sản phẩm theo danh mục</h3>
+        <div class="chart-wrapper">
+            <canvas id="categoryChart"></canvas>
+        </div>
+    </div>
+    <div class="chart-card">
+        <h3>Top 5 sản phẩm tồn kho</h3>
+        <div class="chart-wrapper">
+            <canvas id="stockChart"></canvas>
+        </div>
+    </div>
+</div>

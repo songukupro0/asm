@@ -1,0 +1,3702 @@
+{
+  "categories": [
+    {
+      "id": "iphone",
+      "name": "iPhone"
+    },
+    {
+      "id": "macbook",
+      "name": "MacBook"
+    },
+    {
+      "id": "watch",
+      "name": "Apple Watch"
+    },
+    {
+      "id": "airpods",
+      "name": "AirPods"
+    },
+    {
+      "id": "accessory",
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": "iphone-1",
+      "category_id": "iphone",
+      "name": "iPhone Pro 1",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "IP-4847",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 29039292,
+            "old": 31540904
+          },
+          "stock": 106,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+1%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+1%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-7222",
+          "storage": "512GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 28782600,
+            "old": 31218213
+          },
+          "stock": 43,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+1%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+1%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1497",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 27435566,
+            "old": 29483890
+          },
+          "stock": 31,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+1%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+1%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-8972",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 29022268,
+            "old": 31364272
+          },
+          "stock": 123,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+1%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+1%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-2",
+      "category_id": "iphone",
+      "name": "iPhone Pro 2",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "IP-6808",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 28418024,
+            "old": 30799277
+          },
+          "stock": 56,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+2%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+2%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1499",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 28515555,
+            "old": 30749824
+          },
+          "stock": 40,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+2%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+2%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-3",
+      "category_id": "iphone",
+      "name": "iPhone Pro 3",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "IP-6689",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 28120623,
+            "old": 30327472
+          },
+          "stock": 87,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1173",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 27437680,
+            "old": 30387208
+          },
+          "stock": 38,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-2915",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 27589358,
+            "old": 29376851
+          },
+          "stock": 33,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-7352",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 29574959,
+            "old": 31619528
+          },
+          "stock": 89,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+3%0AStarlight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-4",
+      "category_id": "iphone",
+      "name": "iPhone Pro 4",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "24GB",
+        "storage": "1TB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "IP-7019",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 27787828,
+            "old": 29930305
+          },
+          "stock": 27,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+4%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+4%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-7742",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 27193999,
+            "old": 28457803
+          },
+          "stock": 121,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-9579",
+          "storage": "256GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 27418268,
+            "old": 29149912
+          },
+          "stock": 14,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-3727",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 28998540,
+            "old": 31672353
+          },
+          "stock": 86,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+4%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-5",
+      "category_id": "iphone",
+      "name": "iPhone Pro 5",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "16GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "IP-2044",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 29255261,
+            "old": 31973677
+          },
+          "stock": 100,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+5%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+5%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-4074",
+          "storage": "1TB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 29248877,
+            "old": 30502868
+          },
+          "stock": 14,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=iPhone+Pro+5%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=iPhone+Pro+5%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-2904",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 28627765,
+            "old": 30328215
+          },
+          "stock": 25,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+5%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+5%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-6",
+      "category_id": "iphone",
+      "name": "iPhone Pro 6",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "IP-7474",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 28812092,
+            "old": 31438304
+          },
+          "stock": 120,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+6%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+6%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-2466",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 27858599,
+            "old": 30183148
+          },
+          "stock": 64,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+6%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+6%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-4588",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 29912806,
+            "old": 31750483
+          },
+          "stock": 146,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+6%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+6%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-7",
+      "category_id": "iphone",
+      "name": "iPhone Pro 7",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "24GB",
+        "storage": "1TB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "IP-7120",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 29930957,
+            "old": 32144046
+          },
+          "stock": 137,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+7%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+7%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1255",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 29746960,
+            "old": 32689958
+          },
+          "stock": 142,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+7%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+7%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-4174",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 29489666,
+            "old": 30542071
+          },
+          "stock": 11,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+7%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+7%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-7458",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 27594966,
+            "old": 29260015
+          },
+          "stock": 129,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+7%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+7%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-8",
+      "category_id": "iphone",
+      "name": "iPhone Pro 8",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "IP-9446",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 27410724,
+            "old": 30013622
+          },
+          "stock": 129,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+8%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+8%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-5761",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 29166566,
+            "old": 30701118
+          },
+          "stock": 77,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=iPhone+Pro+8%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=iPhone+Pro+8%0AMidnight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-9",
+      "category_id": "iphone",
+      "name": "iPhone Pro 9",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "24GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "IP-9074",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 28996302,
+            "old": 30137885
+          },
+          "stock": 58,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+9%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+9%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-9018",
+          "storage": "512GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 28430047,
+            "old": 29773386
+          },
+          "stock": 10,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+9%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+9%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-2244",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 27116556,
+            "old": 28811388
+          },
+          "stock": 118,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+9%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+9%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1316",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 27121529,
+            "old": 29869021
+          },
+          "stock": 65,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+9%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+9%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-10",
+      "category_id": "iphone",
+      "name": "iPhone Pro 10",
+      "brand": "Apple",
+      "description": "iPhone Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "24GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "IP-9576",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 29092287,
+            "old": 31591207
+          },
+          "stock": 126,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+10%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=iPhone+Pro+10%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-4149",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 27577293,
+            "old": 29879854
+          },
+          "stock": 115,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+10%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=iPhone+Pro+10%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-1906",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 28275512,
+            "old": 29609342
+          },
+          "stock": 45,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+10%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=iPhone+Pro+10%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "IP-3389",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 29822055,
+            "old": 32323662
+          },
+          "stock": 41,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+10%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=iPhone+Pro+10%0ABạc%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-1",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 1",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "24GB",
+        "storage": "512GB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "MA-9108",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 24013387,
+            "old": 25131122
+          },
+          "stock": 131,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+1%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+1%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-7551",
+          "storage": "1TB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 25040364,
+            "old": 27228410
+          },
+          "stock": 133,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+1%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+1%0AMidnight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-2",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 2",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "512GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "MA-8972",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 24683620,
+            "old": 27673383
+          },
+          "stock": 85,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+2%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+2%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-5705",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 24439347,
+            "old": 26765939
+          },
+          "stock": 114,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+2%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+2%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-8189",
+          "storage": "1TB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 26393130,
+            "old": 28524578
+          },
+          "stock": 90,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+2%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+2%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-4409",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 26660911,
+            "old": 28203720
+          },
+          "stock": 95,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+2%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+2%0AStarlight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-3",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 3",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "24GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "MA-8828",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 26202448,
+            "old": 28342130
+          },
+          "stock": 112,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=MacBook+Air+M2+3%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=MacBook+Air+M2+3%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-2198",
+          "storage": "128GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 24111803,
+            "old": 25179105
+          },
+          "stock": 114,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+3%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+3%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-2319",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 24765567,
+            "old": 26987540
+          },
+          "stock": 40,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=MacBook+Air+M2+3%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=MacBook+Air+M2+3%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-4",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 4",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "MA-7048",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 24756072,
+            "old": 27580805
+          },
+          "stock": 73,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+4%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+4%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-6110",
+          "storage": "128GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 25319109,
+            "old": 27134247
+          },
+          "stock": 92,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+4%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+4%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-7257",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 25729723,
+            "old": 26925113
+          },
+          "stock": 136,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+4%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+4%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-9994",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 25715869,
+            "old": 28121644
+          },
+          "stock": 145,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+4%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+4%0AMidnight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-5",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 5",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "24GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "MA-4527",
+          "storage": "1TB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 25689815,
+            "old": 28588467
+          },
+          "stock": 116,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+5%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+5%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-2767",
+          "storage": "128GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 25340564,
+            "old": 27621575
+          },
+          "stock": 27,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+5%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=MacBook+Air+M2+5%0AMidnight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-6",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 6",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "MA-6011",
+          "storage": "1TB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 26007836,
+            "old": 28022859
+          },
+          "stock": 41,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+6%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+6%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-8675",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 24032995,
+            "old": 26139942
+          },
+          "stock": 20,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+6%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+6%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-4490",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 24333208,
+            "old": 26651486
+          },
+          "stock": 81,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+6%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+6%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-7",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 7",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "16GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "MA-4359",
+          "storage": "512GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 25728852,
+            "old": 28211907
+          },
+          "stock": 64,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+7%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+7%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-7561",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 25199445,
+            "old": 26634064
+          },
+          "stock": 52,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+7%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+7%0AStarlight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-8",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 8",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "MA-7517",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 25065863,
+            "old": 27102610
+          },
+          "stock": 28,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+8%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+8%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-3666",
+          "storage": "512GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 24754529,
+            "old": 27037924
+          },
+          "stock": 127,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+8%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=MacBook+Air+M2+8%0ABạc%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-9",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 9",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "128GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "MA-6095",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 26269372,
+            "old": 27938725
+          },
+          "stock": 83,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+9%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+9%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-6587",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 24761522,
+            "old": 26258742
+          },
+          "stock": 103,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+9%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+9%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-10",
+      "category_id": "macbook",
+      "name": "MacBook Air M2 10",
+      "brand": "Apple",
+      "description": "MacBook Air M2 thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "8GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "MA-3763",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 25847262,
+            "old": 27797088
+          },
+          "stock": 90,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+10%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=MacBook+Air+M2+10%0ATitan+Xanh%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-4583",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 26300115,
+            "old": 28006299
+          },
+          "stock": 133,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+10%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=MacBook+Air+M2+10%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "MA-2704",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 25812904,
+            "old": 27125151
+          },
+          "stock": 34,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+10%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+10%0AStarlight%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-1",
+      "category_id": "watch",
+      "name": "Apple Watch Series 1",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-3532",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 10177573,
+            "old": 12733267
+          },
+          "stock": 56,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+1%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+1%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-3335",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 10516649,
+            "old": 12841256
+          },
+          "stock": 148,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+1%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+1%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-4381",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 10183851,
+            "old": 11360822
+          },
+          "stock": 132,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+1%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+1%0ABạc%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-2",
+      "category_id": "watch",
+      "name": "Apple Watch Series 2",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-1253",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 10252461,
+            "old": 11444269
+          },
+          "stock": 75,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+2%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+2%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-9714",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 10840132,
+            "old": 12717898
+          },
+          "stock": 85,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=Apple+Watch+Series+2%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=Apple+Watch+Series+2%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-7980",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 10814639,
+            "old": 13151520
+          },
+          "stock": 53,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+2%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+2%0ABạc%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-3",
+      "category_id": "watch",
+      "name": "Apple Watch Series 3",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-8486",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 11761201,
+            "old": 14591659
+          },
+          "stock": 113,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+3%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+3%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-8883",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 10884453,
+            "old": 12955590
+          },
+          "stock": 93,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+3%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+3%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-9575",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 10466757,
+            "old": 12891821
+          },
+          "stock": 147,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+3%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+3%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-4",
+      "category_id": "watch",
+      "name": "Apple Watch Series 4",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "24GB",
+        "storage": "128GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-6190",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 10138136,
+            "old": 11937689
+          },
+          "stock": 121,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+4%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+4%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-2949",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 9065631,
+            "old": 10236191
+          },
+          "stock": 108,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+4%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+4%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-5916",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 11466490,
+            "old": 12758637
+          },
+          "stock": 24,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+4%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+4%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-5",
+      "category_id": "watch",
+      "name": "Apple Watch Series 5",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "WA-3610",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 9665453,
+            "old": 11626479
+          },
+          "stock": 135,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+5%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+5%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-4015",
+          "storage": "1TB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 11255025,
+            "old": 13428208
+          },
+          "stock": 125,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+5%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+5%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-6383",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 9998064,
+            "old": 12538413
+          },
+          "stock": 68,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+5%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+5%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-7259",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 10672398,
+            "old": 12559290
+          },
+          "stock": 18,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+5%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+5%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-6",
+      "category_id": "watch",
+      "name": "Apple Watch Series 6",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "WA-8677",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 11841844,
+            "old": 12898474
+          },
+          "stock": 120,
+          "images": [
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+6%0ATitan+Tự+Nhiên",
+            "https://placehold.co/800x800/DED9D4/333333/png?text=Apple+Watch+Series+6%0ATitan+Tự+Nhiên%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-6999",
+          "storage": "128GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 11204700,
+            "old": 12476118
+          },
+          "stock": 57,
+          "images": [
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=Apple+Watch+Series+6%0AMidnight",
+            "https://placehold.co/800x800/1D2025/FFFFFF/png?text=Apple+Watch+Series+6%0AMidnight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-6871",
+          "storage": "128GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 11835931,
+            "old": 13945435
+          },
+          "stock": 24,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+6%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+6%0ABạc%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-7",
+      "category_id": "watch",
+      "name": "Apple Watch Series 7",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-5797",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 9206614,
+            "old": 11841737
+          },
+          "stock": 25,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+7%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+7%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-5444",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 11325721,
+            "old": 12417210
+          },
+          "stock": 41,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+7%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+7%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-8",
+      "category_id": "watch",
+      "name": "Apple Watch Series 8",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "WA-6645",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 9975617,
+            "old": 12780479
+          },
+          "stock": 116,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+8%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+8%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-6585",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 11623916,
+            "old": 13338022
+          },
+          "stock": 23,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+8%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+8%0AXám+Không+Gian%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-9",
+      "category_id": "watch",
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "WA-6337",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 10260085,
+            "old": 12995447
+          },
+          "stock": 116,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+9%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+9%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-4511",
+          "storage": "256GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 10616747,
+            "old": 11642673
+          },
+          "stock": 149,
+          "images": [
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+9%0AXám+Không+Gian",
+            "https://placehold.co/800x800/8A8A8E/FFFFFF/png?text=Apple+Watch+Series+9%0AXám+Không+Gian%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-3203",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 9920826,
+            "old": 12688998
+          },
+          "stock": 107,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+9%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+9%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-10",
+      "category_id": "watch",
+      "name": "Apple Watch Series 10",
+      "brand": "Apple",
+      "description": "Apple Watch Series thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "WA-6272",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 10830549,
+            "old": 12415920
+          },
+          "stock": 29,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+10%0AStarlight",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=Apple+Watch+Series+10%0AStarlight%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-6187",
+          "storage": "512GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 9359262,
+            "old": 11253717
+          },
+          "stock": 20,
+          "images": [
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+10%0ABạc",
+            "https://placehold.co/800x800/EAEAEB/333333/png?text=Apple+Watch+Series+10%0ABạc%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "WA-8575",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 11640082,
+            "old": 14586551
+          },
+          "stock": 26,
+          "images": [
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+10%0ATitan+Xanh",
+            "https://placehold.co/800x800/4A545E/FFFFFF/png?text=Apple+Watch+Series+10%0ATitan+Xanh%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-1",
+      "category_id": "airpods",
+      "name": "AirPods Pro 1",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-8714",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 6602931,
+            "old": 8298490
+          },
+          "stock": 86,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-6890",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 6546512,
+            "old": 8640753
+          },
+          "stock": 100,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-1424",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 7923708,
+            "old": 10462474
+          },
+          "stock": 108,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+1%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-2",
+      "category_id": "airpods",
+      "name": "AirPods Pro 2",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "8GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AI-1276",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 7415941,
+            "old": 9264281
+          },
+          "stock": 112,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+2",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+2%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-7237",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 7548185,
+            "old": 9538856
+          },
+          "stock": 58,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+2",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+2%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-3",
+      "category_id": "airpods",
+      "name": "AirPods Pro 3",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-6915",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 7549147,
+            "old": 8904416
+          },
+          "stock": 17,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+3",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+3%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-4306",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 5661081,
+            "old": 7416652
+          },
+          "stock": 91,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+3",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+3%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-4",
+      "category_id": "airpods",
+      "name": "AirPods Pro 4",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "24GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-5278",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 6334697,
+            "old": 9113259
+          },
+          "stock": 43,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-1879",
+          "storage": "128GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 6100460,
+            "old": 8108525
+          },
+          "stock": 150,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-2020",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 6848056,
+            "old": 9107672
+          },
+          "stock": 15,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-7332",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 5794325,
+            "old": 7864658
+          },
+          "stock": 75,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+4%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-5",
+      "category_id": "airpods",
+      "name": "AirPods Pro 5",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-5608",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 5157298,
+            "old": 6436210
+          },
+          "stock": 16,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+5",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+5%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-5254",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 5531689,
+            "old": 6780374
+          },
+          "stock": 40,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+5",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+5%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-6",
+      "category_id": "airpods",
+      "name": "AirPods Pro 6",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "128GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-2830",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 6689748,
+            "old": 8891465
+          },
+          "stock": 67,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-1033",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 5718543,
+            "old": 6946948
+          },
+          "stock": 100,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-2836",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 5678833,
+            "old": 7548219
+          },
+          "stock": 43,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-1756",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 5845788,
+            "old": 8660102
+          },
+          "stock": 150,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+6%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-7",
+      "category_id": "airpods",
+      "name": "AirPods Pro 7",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "16GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-6405",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 7863634,
+            "old": 9190746
+          },
+          "stock": 117,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-9577",
+          "storage": "128GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 6263141,
+            "old": 7793563
+          },
+          "stock": 114,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-4254",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 5802862,
+            "old": 7700690
+          },
+          "stock": 53,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+7%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-8",
+      "category_id": "airpods",
+      "name": "AirPods Pro 8",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AI-9723",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 5199307,
+            "old": 6392052
+          },
+          "stock": 74,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-1081",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 5630378,
+            "old": 7040680
+          },
+          "stock": 109,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-2817",
+          "storage": "1TB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 5921590,
+            "old": 8402059
+          },
+          "stock": 93,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-6297",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 7390188,
+            "old": 9135669
+          },
+          "stock": 126,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+8%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-9",
+      "category_id": "airpods",
+      "name": "AirPods Pro 9",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "16GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AI-6959",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 5617294,
+            "old": 6872204
+          },
+          "stock": 113,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-8634",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 6977704,
+            "old": 9900682
+          },
+          "stock": 39,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-3924",
+          "storage": "128GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 6571093,
+            "old": 7876491
+          },
+          "stock": 42,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+9%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-10",
+      "category_id": "airpods",
+      "name": "AirPods Pro 10",
+      "brand": "Apple",
+      "description": "AirPods Pro thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AI-6701",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 5247058,
+            "old": 7418656
+          },
+          "stock": 62,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-2278",
+          "storage": "1TB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 6549399,
+            "old": 8525718
+          },
+          "stock": 137,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AI-8543",
+          "storage": "128GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 6564352,
+            "old": 8739119
+          },
+          "stock": 14,
+          "images": [
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10",
+            "https://placehold.co/800x800/f5f5f7/333333/png?text=AirPods+Pro+10%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-1",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 1",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "M3",
+        "ram": "8GB",
+        "storage": "128GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AC-8376",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 1157973,
+            "old": 3746538
+          },
+          "stock": 104,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-9447",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 139902,
+            "old": 2558969
+          },
+          "stock": 104,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-5787",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 2566969,
+            "old": 3589286
+          },
+          "stock": 84,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+1%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-2",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 2",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "AC-9032",
+          "storage": "512GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 1793048,
+            "old": 4292759
+          },
+          "stock": 125,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-5432",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 385754,
+            "old": 3208562
+          },
+          "stock": 68,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-3531",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 2666967,
+            "old": 3667511
+          },
+          "stock": 140,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+2%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-3",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 3",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "24GB",
+        "storage": "1TB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AC-1125",
+          "storage": "256GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 2092062,
+            "old": 4474045
+          },
+          "stock": 97,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+3",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+3%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-1530",
+          "storage": "256GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 2882148,
+            "old": 5547457
+          },
+          "stock": 69,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+3",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+3%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-4",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 4",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AC-2349",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 1606714,
+            "old": 3679069
+          },
+          "stock": 81,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+4",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+4%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-1253",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 1302555,
+            "old": 3536420
+          },
+          "stock": 83,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+4",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+4%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-5",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 5",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "S9 SiP",
+        "ram": "8GB",
+        "storage": "256GB",
+        "os": "macOS Sequoia"
+      },
+      "variants": [
+        {
+          "sku": "AC-2105",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 550422,
+            "old": 2809468
+          },
+          "stock": 52,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-6126",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 2623564,
+            "old": 4855101
+          },
+          "stock": 122,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-3311",
+          "storage": "128GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 2040573,
+            "old": 4332463
+          },
+          "stock": 40,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-2333",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 637404,
+            "old": 2682841
+          },
+          "stock": 129,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+5%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-6",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 6",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AC-8674",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 1065275,
+            "old": 3721717
+          },
+          "stock": 120,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+6",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+6%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-8447",
+          "storage": "256GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 702287,
+            "old": 2759636
+          },
+          "stock": 39,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+6",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+6%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-7",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 7",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "H2",
+        "ram": "16GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AC-1988",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 61844,
+            "old": 1905451
+          },
+          "stock": 129,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-6522",
+          "storage": "512GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 2145468,
+            "old": 4301732
+          },
+          "stock": 85,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-4474",
+          "storage": "128GB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 2953539,
+            "old": 5296124
+          },
+          "stock": 80,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-5599",
+          "storage": "1TB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 96073,
+            "old": 2115371
+          },
+          "stock": 49,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+7%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-8",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 8",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "8GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "AC-1699",
+          "storage": "1TB",
+          "color": {
+            "name": "Titan Xanh",
+            "hex": "#4E5861"
+          },
+          "price": {
+            "current": 1676363,
+            "old": 3947550
+          },
+          "stock": 41,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-8189",
+          "storage": "1TB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 2467160,
+            "old": 3633605
+          },
+          "stock": 48,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-9775",
+          "storage": "512GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 76742,
+            "old": 3067359
+          },
+          "stock": 30,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+8%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-9",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 9",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "U2",
+        "ram": "8GB",
+        "storage": "512GB",
+        "os": "iOS 17"
+      },
+      "variants": [
+        {
+          "sku": "AC-3052",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 1008206,
+            "old": 3278840
+          },
+          "stock": 110,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-2940",
+          "storage": "256GB",
+          "color": {
+            "name": "Midnight",
+            "hex": "#2E3642"
+          },
+          "price": {
+            "current": 1212824,
+            "old": 3606493
+          },
+          "stock": 76,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-8317",
+          "storage": "128GB",
+          "color": {
+            "name": "Bạc",
+            "hex": "#DADADA"
+          },
+          "price": {
+            "current": 1964010,
+            "old": 4283099
+          },
+          "stock": 148,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+9%0A(View+2)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory-10",
+      "category_id": "accessory",
+      "name": "Phụ kiện MagSafe 10",
+      "brand": "Apple",
+      "description": "Phụ kiện MagSafe thế hệ mới với hiệu năng vượt trội, thiết kế tinh tế và trải nghiệm mượt mà.",
+      "highlights": [
+        "Hiệu năng mạnh mẽ vượt trội",
+        "Thiết kế cao cấp, mỏng nhẹ",
+        "Thời lượng pin ấn tượng",
+        "Tích hợp chip Apple tiên tiến"
+      ],
+      "specifications": {
+        "chip": "A17 Pro",
+        "ram": "16GB",
+        "storage": "1TB",
+        "os": "watchOS 10"
+      },
+      "variants": [
+        {
+          "sku": "AC-3804",
+          "storage": "512GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 764219,
+            "old": 1841871
+          },
+          "stock": 44,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-1773",
+          "storage": "256GB",
+          "color": {
+            "name": "Titan Tự Nhiên",
+            "hex": "#8B8681"
+          },
+          "price": {
+            "current": 1896005,
+            "old": 4889023
+          },
+          "stock": 118,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-1684",
+          "storage": "128GB",
+          "color": {
+            "name": "Starlight",
+            "hex": "#F0EAE0"
+          },
+          "price": {
+            "current": 1318466,
+            "old": 2514768
+          },
+          "stock": 59,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10%0A(View+2)"
+          ]
+        },
+        {
+          "sku": "AC-5180",
+          "storage": "256GB",
+          "color": {
+            "name": "Xám Không Gian",
+            "hex": "#86868B"
+          },
+          "price": {
+            "current": 1743788,
+            "old": 4059266
+          },
+          "stock": 145,
+          "images": [
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10",
+            "https://placehold.co/800x800/EEEEEE/333333/png?text=Phụ+kiện+MagSafe+10%0A(View+2)"
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "u001",
+      "name": "luyến",
+      "email": "user@gmail.com",
+      "password": "123",
+      "role": "user",
+      "orders": [],
+      "phone": "0961369106",
+      "address": "123"
+    },
+    {
+      "id": "u002",
+      "name": "luyến",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "orders": []
+    }
+  ],
+  "orders": [
+    {
+      "id": "order1760867572594",
+      "userId": "u001",
+      "customerInfo": {
+        "name": "luyen",
+        "phone": "0961369106",
+        "address": "123",
+        "note": ""
+      },
+      "items": [
+        {
+          "productId": "macbook-1",
+          "sku": "MA-9108",
+          "name": "MacBook Air M2 1 1TB Starlight",
+          "price": 24013387,
+          "image": "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+1%0AStarlight",
+          "quantity": 1
+        },
+        {
+          "productId": "iphone-1",
+          "sku": "IP-4847",
+          "name": "iPhone Pro 1 1TB Starlight",
+          "price": 29039292,
+          "image": "https://placehold.co/800x800/f5f5f7/333333/png?text=iPhone+Pro+1%0AStarlight",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 53052679,
+      "orderDate": "2025-10-19T09:52:52.594Z",
+      "status": "delivered"
+    },
+    {
+      "id": "order1760867675592",
+      "userId": "u001",
+      "customerInfo": {
+        "name": "luyen",
+        "phone": "0961369106",
+        "address": "123",
+        "note": ""
+      },
+      "items": [
+        {
+          "productId": "macbook-4",
+          "sku": "MA-7048",
+          "name": "MacBook Air M2 4 512GB Starlight",
+          "price": 24756072,
+          "image": "https://placehold.co/800x800/f5f5f7/333333/png?text=MacBook+Air+M2+4%0AStarlight",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 24756072,
+      "orderDate": "2025-10-19T09:54:35.592Z",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sản phẩm</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">LOGO</a>
+            </div>
+            <nav class="navigation">
+                <ul>
+                    <li><a href="index.html">Trang chủ</a></li>
+                    <li class="dropdown-parent">
+                        <a href="#">Sản phẩm <i class="fas fa-chevron-down"></i></a>
+                        <div class="dropdown-content" id="nav-category-dropdown"></div>
+                    </li>
+                    <li>
+                        <form class="search-form">
+                            <input type="search" placeholder="Tìm kiếm sản phẩm...">
+                            <button type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                    </li>
+                    <li class="nav-login"><a href="login.html">Đăng nhập</a></li>
+                    <li class="nav-cart"><a href="cart.html">Giỏ hàng</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="content-section">
+                <h2 id="category-title">Tất cả sản phẩm</h2>
+                <div class="product-grid" id="products-container">
+                    <!-- Sản phẩm sẽ được tải vào đây -->
+                </div>
+                <div class="pagination" id="pagination-container">
+                    <!-- Phân trang sẽ được tạo ở đây -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer" id="page-footer"></footer>
+
+    <script src="../../controllers/shared.js"></script>
+    <script src="../../controllers/products-page.js"></script>
+</body>
+</html>

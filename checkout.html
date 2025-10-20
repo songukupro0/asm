@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thanh toán</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="#" onclick="goToHome()">LOGO</a>
+            </div>
+            <nav class="navigation">
+                <ul>
+                    <li><a href="#" onclick="goToHome()">Trang chủ</a></li>
+                    <li class="dropdown-parent">
+                        <a href="#">Sản phẩm <i class="fas fa-chevron-down"></i></a>
+                        <div class="dropdown-content" id="nav-category-dropdown"></div>
+                    </li>
+                    <li>
+                        <form class="search-form">
+                            <input type="search" placeholder="Tìm kiếm sản phẩm...">
+                            <button type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                    </li>
+                    <li class="nav-login"><a href="#" onclick="goToLogin()">Đăng nhập</a></li>
+                    <li class="nav-cart"><a href="#" onclick="goToCart()">Giỏ hàng</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="content-section">
+                <h2>Thông tin thanh toán</h2>
+                <div class="cart-layout" id="checkout-layout">
+                    <!-- Cột trái: Form thông tin giao hàng -->
+                    <div class="checkout-form-container">
+                        <h3>Thông tin giao hàng</h3>
+                        <form id="checkout-form">
+                            <div class="form-group">
+                                <label for="fullname">Họ và tên</label>
+                                <input type="text" id="fullname" name="fullname" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone">Số điện thoại</label>
+                                <input type="tel" id="phone" name="phone" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="address">Địa chỉ</label>
+                                <input type="text" id="address" name="address" required>
+                            </div>
+                             <div class="form-group">
+                                <label for="note">Ghi chú (tùy chọn)</label>
+                                <textarea id="note" name="note" rows="3"></textarea>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- Cột phải: Tóm tắt đơn hàng -->
+                    <div class="cart-summary" id="order-summary">
+                        <!-- Tóm tắt đơn hàng sẽ được chèn vào đây bằng JS -->
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer" id="page-footer"></footer>
+
+    <script src="../../controllers/shared.js"></script>
+    <script src="../../controllers/checkout.js"></script>
+    <script src="../../controllers/navigation.js"></script>
+</body>
+</html>

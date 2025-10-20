@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết sản phẩm</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="#" onclick="goToHome()">LOGO</a>
+            </div>
+            <nav class="navigation">
+                <ul>
+                    <li><a href="#" onclick="goToHome()">Trang chủ</a></li>
+                    <li class="dropdown-parent">
+                        <a href="#">Sản phẩm <i class="fas fa-chevron-down"></i></a>
+                        <div class="dropdown-content" id="nav-category-dropdown"></div>
+                    </li>
+                    <li>
+                        <form class="search-form">
+                            <input type="search" placeholder="Tìm kiếm sản phẩm...">
+                            <button type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                    </li>
+                    <li class="nav-login"><a href="#" onclick="goToLogin()">Đăng nhập</a></li>
+                    <li class="nav-cart"><a href="#" onclick="goToCart()">Giỏ hàng</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container" id="product-detail-container">
+            <!-- Nội dung chi tiết sản phẩm sẽ được tải vào đây -->
+            <p>Đang tải thông tin sản phẩm...</p>
+        </div>
+    </main>
+
+    <footer class="footer" id="page-footer"></footer>
+
+    <script src="../../controllers/navigation.js"></script>
+    <script src="../../controllers/shared.js"></script>
+    <script src="../../controllers/product-detail.js"></script>
+</body>
+</html>
